@@ -154,7 +154,26 @@
     }
   },
   "Extra": {
-    "Toxic Charge": {
+  "Materials": {
+	"Texture Map": "9438453972",
+	"Texture Map": "9438410239",
+	"Granite": "9873266399",
+	"Texture Map": "9439649548",
+	"Texture Map": "9475422736",
+	"Ice": "9873284556",
+	"Wood": "9920625499",
+	"Woodchips Texture Map": "125457943890626",
+	"Carpet": "9920517963",
+	"Stone": "9920484334",
+	"Metal": "9920574966",
+	"Diamond Plate": "10237721036",
+	"Wooden Planks": "9920626896",
+	"White Texture": "14867401787",
+	"Sight Effect": "16756014301",
+	"Woodchips": "10355411257",
+	"Damage Effect": "15719961364"
+  },
+  "Toxic Charge": {
     "Hazard Icon": "7441723828"
   },
   "Chain Fence": {
