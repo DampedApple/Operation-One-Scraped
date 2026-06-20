@@ -143,7 +143,7 @@
     },
     "Util": {
       "Metall Barricade": {
-        "Texture Map (Missing)": "0"
+        "Metal": "9920574966"
       },
       "Reinforcement": {
         "Diamond Plate": "10237721036"
@@ -172,9 +172,6 @@
 	"Sight Effect": "16756014301",
 	"Woodchips": "10355411257",
 	"Damage Effect": "15719961364"
-  },
-  "Toxic Charge": {
-    "Hazard Icon": "7441723828"
   },
   "Chain Fence": {
     "Chain Fence": "2908007"
