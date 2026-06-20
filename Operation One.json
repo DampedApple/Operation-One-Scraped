@@ -152,8 +152,7 @@
         "Texture Map (Missing)": "0"
       }
     }
-  }
-},
+  },
 "Extra": {
     "Materials (Unnamed)": {
 	 "Texture Map": "9438453972",
@@ -184,6 +183,7 @@
 	 "Skybox Lf": "18703237556",
 	 "Skybox Ft": "18703240532",
 	 "Skybox Dn": "18703243349"
+      }
     }
   }
 }
